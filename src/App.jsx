@@ -161,7 +161,7 @@ function App() {
           <span className="tech-badge" style={{ marginBottom: '20px' }}>Implementación Real</span>
           <h2>Desarrollado a la medida para <br /><span className="highlight-yellow">S.I. Protection</span></h2>
           <p className="company-desc">
-            Este sistema no es un producto genérico. Ha sido diseñado específicamente para responder a la arquitectura operativa y los altos estándares de <strong>S.I. Protection</strong>, empresa líder en seguridad privada integral en la Región del Biobío.
+            Este sistema no es un producto genérico. Ha sido diseñado específicamente para responder a la arquitectura operativa y los altos estándares de <strong>S.I. Protection</strong>, empresa de seguridad privada integral en la Región del Biobío.
           </p>
           
           <div className="services-grid">
